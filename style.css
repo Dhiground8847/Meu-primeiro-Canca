@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background: rgb(123,254,90);
+background: radial-gradient(circle, rgba(123,254,90,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-color: blue;
+}
